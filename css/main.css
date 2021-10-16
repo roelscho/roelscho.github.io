@@ -1,0 +1,12 @@
+---
+---
+
+.post{
+    margin:0px; 
+    padding: 100px;
+}
+
+{% include css/navbar.css %}
+{% include css/header.css %}
+{% include css/skills.css %}
+{% include css/projects.css %}

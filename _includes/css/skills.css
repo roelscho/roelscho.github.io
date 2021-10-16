@@ -1,0 +1,10 @@
+.skills{
+    font-family: "Montserrat";
+    clear:both;
+    padding: 75px;
+}
+.skills h2 {
+    text-transform: uppercase;
+    margin-bottom: 50px;
+    text-align: center;
+  }

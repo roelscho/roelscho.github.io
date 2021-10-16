@@ -1,0 +1,21 @@
+<section class="projects" id="projects">
+    
+  <h2>projects</h2>
+    
+  <div class="container">
+    <div class="row">
+      {% for post in site.posts %}
+      <div class="col-md-4">
+        <a class="content" href="{{ post.url }}">
+            <img src="{{ post.thumbnail }}" alt="project">
+            <div class="overlay"></div>
+        </a> 
+        <div class="subtitle">
+          <h4>{{ post.title }}</h4>
+          <p>{{ post.tag }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
