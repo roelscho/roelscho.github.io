@@ -3,7 +3,7 @@ layout: post
 title:  Snowlball
 permalink: /:title/
 tag: Shiva3D, Lua, Mobile
-thumbnail: img/snowlballthumb.PNG
+thumbnail: img/snowlballthumb.png
 ---
 ## Snowlball
 
