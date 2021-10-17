@@ -1,0 +1,31 @@
+---
+layout: post
+title:  Web Games
+permalink: /:title/
+tag: Actionscript, Web
+thumbnail: img/webgamethumb.PNG
+---
+## Web Games
+
+The first few games I programmed, part of game design class. This was when Flash was still used, so I used Actionscript with the Flixel framework. I am currently rebuilding them in Javascript using Phaser.
+
+The first game is a Gauntlet clone. Two player combat with upgradable weapons and use of a particle engine.
+
+The second game is a mix between tower defense and a topdown shooter. The player walks around the map shooting enemies and collecting materials to build up defenses. After a time limit runs out, waves of enemies appear and it changes into a tower defense game. I mostly focused on learning gamestates and programming visual effects.
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <img src="/img/webgame1.PNG" class="rounded img-fluid" alt="webgame1"/>
+        </div>
+        <div class="col-md-4">
+            <img src="/img/webgame2.PNG" class="rounded img-fluid" alt="webgame2"/>
+        </div>
+        <div class="col-md-4">
+            <img src="/img/webgame3.PNG" class="rounded img-fluid" alt="webgame3"/>
+        </div>
+        <div class="col-md-4">
+            <img src="/img/webgame4.PNG" class="rounded img-fluid" alt="webgame4"/>
+        </div>
+    </div>
+</div>

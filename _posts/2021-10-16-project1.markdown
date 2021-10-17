@@ -1,8 +1,0 @@
----
-layout: post
-title:  Project
-permalink: /:title/
-tag: Languages
-thumbnail: img/image.PNG
----
-Project
