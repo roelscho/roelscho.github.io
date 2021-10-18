@@ -1,6 +1,6 @@
 .navbar-custom{
     height: 80px;
-    font-family: "Montserrat";
+    font-family: "Montserrat", Verdana;
     text-transform: uppercase;
     padding:20px;
 }
