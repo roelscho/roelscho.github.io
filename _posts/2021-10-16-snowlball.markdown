@@ -7,7 +7,7 @@ thumbnail: img/snowlballthumb.png
 ---
 ## Snowlball
 
-One of the first 3D games I build, It was part of a second year project where we went through the entire process of creating a game like a studio would, with a product owner and investors. 
+One of the first 3D games I build. It was part of a second year project where we went through the entire process of creating a game like a studio would, with a product owner and investors. 
 
 Aliens invaded a city and the player controls a snowball to roll over and squish all the aliens, like a bowlingball. The gyroscope of the device is used to move it around, inspired by the classic marble in a wooden maze game. Players figure out how to make the snowball melt and grow in order to fit in different parts of the level and hit different sized aliens. Every level is its own puzzle, which is solved by hitting all the aliens.
 
