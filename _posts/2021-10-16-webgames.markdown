@@ -9,7 +9,7 @@ thumbnail: img/webgamethumb.PNG
 
 The first few games I programmed, part of game design class. This was when Flash was still used, so I used Actionscript with the Flixel framework. I am currently rebuilding them in Javascript using Phaser.
 
-The first game is a Gauntlet clone. Two player combat with upgradable weapons and use of a particle engine.
+The first game is a side-scrolling local multiplayer shooter. Two player combat with upgradable weapons and use of a particle engine.
 
 The second game is a mix between tower defense and a topdown shooter. The player walks around the map shooting enemies and collecting materials to build up defenses. After a time limit runs out, waves of enemies appear and it changes into a tower defense game. I mostly focused on learning gamestates and programming visual effects.
 
